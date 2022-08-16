@@ -1,0 +1,1 @@
+# MSU_VQM_Compression_Benchmark
