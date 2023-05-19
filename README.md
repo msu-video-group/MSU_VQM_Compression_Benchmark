@@ -16,12 +16,16 @@ If you use our benchmark results, CVQA dataset, or this code for your research, 
 
 ```
 @inproceedings{
-  antsiferova2022video,
-  title={Video compression dataset and benchmark of learning-based video-quality metrics},
-  author={Anastasia Antsiferova and Sergey Lavrushkin and Maksim Smirnov and Aleksandr Gushchin and Dmitriy S. Vatolin and Dmitriy Kulikov},
-  booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-  year={2022},
-  url={https://openreview.net/forum?id=My5AI9aM49R}
+    NEURIPS2022_59ac9f01,
+    author = {Antsiferova, Anastasia and Lavrushkin, Sergey and Smirnov, Maksim and Gushchin, Aleksandr and Vatolin, Dmitriy and Kulikov, Dmitriy},
+    booktitle = {Advances in Neural Information Processing Systems},
+    editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+    pages = {13814--13825},
+    publisher = {Curran Associates, Inc.},
+    title = {Video compression dataset and benchmark of learning-based video-quality metrics},
+    url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/59ac9f01ea2f701310f3d42037546e4a-Paper-Datasets_and_Benchmarks.pdf},
+    volume = {35},
+    year = {2022}
 }
 ```
 
