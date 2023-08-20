@@ -1,6 +1,6 @@
-## MSU Video Quality Metrics Benchmark page for NeurIPS 2022 paper «Video compression dataset and benchmark of learning-based video-quality metrics» 
+## MSU Compressed Video Quality Dataset (CVQAD) and results verification for Video Quality Metrics Benchmark, introduced in the NeurIPS 2022 paper «Video compression dataset and benchmark of learning-based video-quality metrics» 
 
-Check out more detailed charts and leaderboards on the MSU Video Quality Metrics Benchmark page.
+Check out more detailed charts and leaderboards on the [MSU Video Quality Metrics Benchmark page](https://videoprocessing.ai/benchmarks/video-quality-metrics_both.html).
 
 To reproduce paper results just run
 
@@ -8,11 +8,11 @@ To reproduce paper results just run
 final_scripts_for_correlation.ipynb
 ```
 
-You are provided with metrics scores on the open part (CVQAD) of our benchmark dataset. We also share the connections between each reference video and the categories into which they have been assigned.
+You are provided with metrics scores on the open part (named CVQAD) of our benchmark dataset. We also share the connections between each reference video and the categories into which they have been assigned.
 
 ## Citation
 
-If you use our benchmark results, CVQA dataset, or this code for your research, please cite our paper.
+If you use our benchmark results, CVQA Dataset, or this code for your research, please cite our paper.
 
 ```
 @inproceedings{
